@@ -10,6 +10,6 @@ $short_url=get_short_url($full_url, $genericAccessToken);
 ?>
 ```
 ## Credit:
-Author: Isrg Rajan
-Website: www.isrgrajan.com
-Licensed: Mozilla Public License Version 2.0
+- Author: Isrg Rajan
+- Website: www.isrgrajan.com
+- Licensed: Mozilla Public License Version 2.0
